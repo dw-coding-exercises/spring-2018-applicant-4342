@@ -4,6 +4,8 @@
   :dependencies [[org.clojure/clojure "1.8.0"]
                  [ring "1.6.3"]
                  [ring/ring-defaults "0.3.1"]
+                 [ring/ring-mock "0.3.2"]
+                 [clj-http "3.9.0"]
                  [compojure "1.6.0"]
                  [hiccup "1.0.5"]]
   :plugins [[lein-ring "0.12.1"]]
